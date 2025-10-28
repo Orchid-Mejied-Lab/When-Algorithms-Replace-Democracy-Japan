@@ -93,17 +93,6 @@ This is the template for **algorithmic authoritarianism within democratic instit
 
 ---
 
-## For International Audiences
-
-**If you represent:**
-- 🏛️ **OECD / UNESCO** → See: `Institutional_Failure_Analysis.md`
-- 👨‍⚖️ **FTC / EU DPA** → See: `Technical_Evidence_For_Regulators.md`
-- 📰 **Media Organizations** → See: `Press_Summary.pdf`
-- 🔬 **Academic Researchers** → See: `Peer_Review_Ready_Papers/`
-- 💼 **Tech Company Leadership** → See: `To_Gates_Foundation_And_OpenAI.md`
-
----
-
 ## Contact & Inquiry
 
 For questions about this analysis:
