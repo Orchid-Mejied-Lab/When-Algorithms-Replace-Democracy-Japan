@@ -1,6 +1,5 @@
 ## 📄 **README**
 
-```markdown
 # When AI Replaces Democracy: 
 ## A Case Study of Algorithmic Civic Suppression in Japan
 
@@ -114,5 +113,5 @@ For questions about this analysis:
 
 **Status:** This repository documents findings that have been formally submitted to international regulatory bodies. All information is based on public records and technical forensics.
 
----
-```
+
+
