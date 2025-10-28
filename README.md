@@ -1,13 +1,13 @@
 ## 📄 **README**
 
-#🐶When AI Replaces Democracy🐾: 
+#When AI Replaces Democracy: 
 ## A Case Study of Algorithmic Civic Suppression in Japan
 
 ---
 
 ## Executive Summary
 
-📎 [EP.00_AI_Ethics_Record_Ayana_2025.pdf](./EP.00_AI_Ethics_Record_Ayana_2025.pdf)
+📎 🐶[EP.00_AI_Ethics_Record_Ayana_2025.pdf](./EP.00_AI_Ethics_Record_Ayana_2025.pdf)🐾
 
 This repository is a citizen’s record of how AI governance failed inside a G7 democracy.
 
