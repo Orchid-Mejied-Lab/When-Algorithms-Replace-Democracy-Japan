@@ -8,6 +8,8 @@
 
 ## Executive Summary
 
+📎 [EP.00_AI_Ethics_Record_Ayana_2025.pdf](./EP.00_AI_Ethics_Record_Ayana_2025.pdf)
+
 This repository is a citizen’s record of how AI governance failed inside a G7 democracy.
 
 A Japanese municipality deployed an AI-powered civic complaint system that:
