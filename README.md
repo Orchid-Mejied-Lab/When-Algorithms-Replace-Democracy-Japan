@@ -1,6 +1,7 @@
 ## 📄 **README**
 
-##When AI Replaces Democracy: 
+## When AI Replaces Democracy:
+
 ## A Case Study of Algorithmic Civic Suppression in Japan
 
 ---
