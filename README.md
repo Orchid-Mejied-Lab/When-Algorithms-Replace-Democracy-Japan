@@ -19,6 +19,7 @@ This episode marks the transition from local evidence to international implicati
 
 ✈️ From Japan’s City Halls to the Global Cloud.
 
+
 This repository is a citizen’s record of how AI governance failed inside a G7 democracy.
 
 A Japanese municipality deployed an AI-powered civic complaint system that:
