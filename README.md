@@ -10,6 +10,15 @@
 
 ## 📎 🐶[EP.00_AI_Ethics_Record_Ayana_2025.pdf](./EP.00_AI_Ethics_Record_Ayana_2025.pdf)🐾
 
+# 🌏 2nd.EP.01 — The man who was thought to have left Japan
+
+From local governance to global infrastructure.
+What began as a municipal-level anomaly in Japan has now revealed its link to Google’s global architecture — a network where civic systems, cloud governance, and AI learning pipelines intersect.
+
+This episode marks the transition from local evidence to international implications — tracing how Japan’s administrative data became part of a worldwide experiment in algorithmic governance.
+
+✈️ From Japan’s City Halls to the Global Cloud.
+
 This repository is a citizen’s record of how AI governance failed inside a G7 democracy.
 
 A Japanese municipality deployed an AI-powered civic complaint system that:
