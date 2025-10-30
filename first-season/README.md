@@ -8,8 +8,6 @@
 
 ## Executive Summary
 
-## 📎 🐶[EP.00_AI_Ethics_Record_Ayana_2025.pdf](./EP.00_AI_Ethics_Record_Ayana_2025.pdf)🐾
-
 # 🌏 2nd.EP.01 — The man who was thought to have left Japan
 
 From local governance to global infrastructure.
